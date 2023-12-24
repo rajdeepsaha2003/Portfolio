@@ -99,5 +99,47 @@
     }
     .text-container {
         text-align: justify;
+        
+    }
+    .projects{
+        padding-top: 200vh;
+    }
+    .experience{
+    padding-top: 100vh;
+    }
+    .about-containers{
+        padding-top: 100vh;
+    }
+    .about{
+        padding-top: 100vh;
+        padding-top: 57vh;
+    }
+    .h1-title{
+        padding-top: 40vh;
+    }
+    #about.title{
+        padding-top: 9vh;
+    }
+    #about .section__text__p1 {
+        padding-top: 111vh; /* Adjust the value as needed */
+    }
+    #about .about-containers{
+        margin-top: -276px;
+    }
+    #projects{
+        /* padding-top: 178vh; */
+        padding-top: 200vh;
+    }
+    #projects.section__text__p1{
+        margin-top: -500px;
+    }
+    #contact{
+        padding-top: 225vh;
+    }
+    footer{
+        padding-top: 150vh;
+    }
+    .contact-info-container{
+        height: 25vh;
     }
 }
